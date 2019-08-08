@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int main(){
-	char * arrtotal[] = []
+int main(){	
 	char arr[14];
 	char es[5] = "HOLA";
 	char en[6] = "HELLO";
